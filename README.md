@@ -11,5 +11,3 @@
 4. **Command-Line Convenience:** Enhance your terminal experience with a simple yet powerful emoticon search tool.
 
 5. **Express Yourself:** Bring emotion to your code and communication effortlessly with GoMoticon.
-
-(thanks chatgpt for the cheesy readme :P)
